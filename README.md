@@ -49,13 +49,13 @@ Logo temos que escrever o código, que pode ser feito por qualquer editor de tex
 
 Para rodar use `poetry run flet app.py` ou no navegador use `poetry run flet run -w app.py`.
 
-![Minas_app](/home/edius/Projetos/Minas/Minas_app.png)
+![Minas_app](/Minas_app.png)
 
 
 
 
 
-![Minas_web](/home/edius/Projetos/Minas/Minas_web.png)
+![Minas_web](/Minas_web.png)
 
 ## Instruções de Instalação
 
